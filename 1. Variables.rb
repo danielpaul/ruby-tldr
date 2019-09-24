@@ -1,6 +1,6 @@
 puts 'Hello World!'
 
-greeting = ‘Good morning!’
+greeting = 'Good morning!'
 puts greeting
 
 name = "Daniel"
