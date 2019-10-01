@@ -19,7 +19,7 @@ else
   (3..number - 1).each do |i|
 
     # skip all the even numbers
-    if number % 2 == 0
+    if i % 2 == 0
       next
     end
 
